@@ -28,8 +28,8 @@ This project presents an **interactive Power BI dashboard** built for analyzing 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1183" height="645" alt="image" src="https://github.com/user-attachments/assets/7fd52d49-bbd6-4e0e-bfd4-5d41a515e60f" />
-)
+<img width="1183" height="645" alt="image" src="https://github.com/user-attachments/assets/be7a3d57-21ac-4917-b012-ba0744f55a7e" />
+
 
 ---
 
